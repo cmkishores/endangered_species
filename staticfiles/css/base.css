@@ -1,0 +1,112 @@
+body {	
+    		font-family:'Comfortaa', sans-serif;
+			padding:50px;
+			margin:50px;
+			
+			 background: linear-gradient(to right, #1d976c, #4e898c, #1d976c);
+			color:white;
+
+
+				}
+	title {
+			text-align:center;
+				}
+	ul {	
+			text-align:center;
+			list-style: none;
+			padding:20px;
+			font-size:20px;
+			line-height:40px;	
+				}
+	a {
+		text-align:center;
+		color:white;
+		font-size:18px;
+				}
+	h2 {	
+			font-family: 'Ubuntu';
+			text-align:left;
+			font-size: 47px;
+			padding-top: 50px;
+	}
+	h1 {	
+			font-family: 'Ubuntu';
+			text-align:left;
+			font-size: 64px;
+		}
+	h3 {
+			font-size: 40px;
+			padding-top:50px;
+
+	}
+	#first {
+			padding-top: 100px;
+	}
+	.about {padding-top: 50px;
+			text-align: left;
+			line-height: 27px;
+			font-size: 25px;
+	}
+
+	.contact {
+				font-size: 45px;
+
+				padding-top: 50px;
+				padding-left: 50px
+	}
+	.contact1 {font-size: 45px;
+				padding-top: 15px;
+				padding-left: 50px
+			}
+	.brief {	padding:40px;
+		line-height:40px;
+		width:400px;
+		margin:15px;
+		border:5px;
+		border-style:double dotted;
+		
+		}
+   .content {	padding:20px 40px 60px ;
+		line-height:40px;
+		
+  		}
+ 
+ 	.blue {	
+    		font-family:'Comfortaa', sans-serif;
+			padding:100px;
+			margin:50px;
+			
+			 background: linear-gradient(to right, #1a2980, #26d0ce);
+			color:white;
+}
+
+	.maneater {	
+    		font-family:'Comfortaa', sans-serif;
+			padding:100px;
+			margin:50px;
+			
+			 background: linear-gradient(to right,  #eb3349, #f45c43);
+			color:white;
+				}
+	.orchid {	
+    		font-family:'Comfortaa', sans-serif;
+			padding:50px;
+			margin:50px;
+			
+			 background: linear-gradient(to right,  #bbd2c5, #536976);
+			color:white;
+			}
+ 	.link {
+		text-align:center;
+		color:white;
+		font-size:18px;
+				}
+	.orch{
+		height:10%;
+		width:10%;
+	}
+  	#plantlist {
+  		line-height: 40px;
+  		padding:30px 20px 100px 100px;
+  	}
+ 
