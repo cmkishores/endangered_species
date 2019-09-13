@@ -1,6 +1,6 @@
 body {	
     		font-family:'Comfortaa', sans-serif;
-			padding:100px;
+			padding:50px;
 			margin:50px;
 			
 			 background: linear-gradient(to right, #1d976c, #4e898c, #1d976c);
@@ -52,18 +52,18 @@ body {
 				font-size: 45px;
 
 				padding-top: 50px;
-				padding-left: 100px
+				padding-left: 50px
 	}
 	.contact1 {font-size: 45px;
 				padding-top: 15px;
-				padding-left: 100px
+				padding-left: 50px
 			}
 	.brief {	padding:40px;
 		line-height:40px;
 		width:400px;
 		margin:15px;
 		border:5px;
-		border-style:dotted;
+		border-style:double dotted;
 		
 		}
    .content {	padding:20px 40px 60px ;
@@ -90,7 +90,7 @@ body {
 }
 .orchid {	
     		font-family:'Comfortaa', sans-serif;
-			padding:100px;
+			padding:50px;
 			margin:50px;
 			
 			 background: linear-gradient(to right,  #bbd2c5, #536976);
