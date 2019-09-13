@@ -80,27 +80,31 @@ body {
 			color:white;
 }
 
-.maneater {	
+	.maneater {	
     		font-family:'Comfortaa', sans-serif;
 			padding:100px;
 			margin:50px;
 			
 			 background: linear-gradient(to right,  #eb3349, #f45c43);
 			color:white;
-}
-.orchid {	
+				}
+	.orchid {	
     		font-family:'Comfortaa', sans-serif;
 			padding:50px;
 			margin:50px;
 			
 			 background: linear-gradient(to right,  #bbd2c5, #536976);
 			color:white;
-}
- .link {
+			}
+ 	.link {
 		text-align:center;
 		color:white;
 		font-size:18px;
 				}
+	.orch{
+		height:50%;
+		width:50%;
+	}
   	#plantlist {
   		line-height: 40px;
   		padding:30px 20px 100px 100px;
