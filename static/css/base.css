@@ -106,10 +106,28 @@ body {
 		height:100%;
 		width:100%;
 	}
+	.Flowerlist{
+		font-size:25px;
+	}
+	.ack {
+		font-size: 40px;
+		border-style: dashed;
+		width:500px;
+	}
+	.git {
+
+		font-size: 40px;
+		font-family: 'Roboto Mono'
+	}
+  	#plantlist li{
+  		font-size: 25px;
+  		line-height: 40px;
+  		padding:10px;
+  	}
   	#plantlist {
   		line-height: 40px;
-  		padding:30px 20px 100px 100px;
-  	}
+  		padding:10px 100px 20px 100px;
+  	
  	#TitleQ {
  			font-size: 50px;
  	}
