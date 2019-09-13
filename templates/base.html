@@ -10,14 +10,21 @@
 	</title>
 		
 </head>
+		<ul class= "navigation">
+	<li><a class = 'link' href = "{% url 'home'%}" >Home</a></li>
+	<li><a class = 'link' href = "{% url 'orchid'%}">Western Prairie Fringed Orchid</a></li>
+	<li><a class = 'link' href = "{% url 'maneater'%}" >Rafflesia Flower</a></li>
+    <li><a class = 'link' href ="{% url 'blue' %}">Georgia Aster</a></li>
+  		</ul>
 
 		{% block body %}
 		{% endblock body %}
-
-		<p> <a class = 'link' href = "{% url 'home'%}" >Index</a> </p>
-	<p> <a class = 'link' href = "{% url 'orchid'%}">Western Prairie Fringed Orchid</a> </p>
-	<p> <a class = 'link' href = "{% url 'maneater'%}" >Rafflesia Flower</a></p> 
-        <p> <a class = 'link' href ="{% url 'blue' %}">Georgia Aster</a> </p>
-  
+	
+		<ul class= "navigation">
+	<li><a class = 'link' href = "{% url 'home'%}" >Home</a></li>
+	<li><a class = 'link' href = "{% url 'orchid'%}">Western Prairie Fringed Orchid</a></li>
+	<li><a class = 'link' href = "{% url 'maneater'%}" >Rafflesia Flower</a></li>
+    <li><a class = 'link' href ="{% url 'blue' %}">Georgia Aster</a></li>
+  		</ul>
 
 </html>
