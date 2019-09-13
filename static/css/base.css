@@ -93,12 +93,12 @@ body {
 			padding:100px;
 			margin:50px;
 			
-			 background: linear-gradient(to right, #ede574, #e1f5c4);
-			color:#fb3349;
+			 background: linear-gradient(to right,  #bbd2c5, #536976);
+			color:white;
 }
  .link {
 		text-align:center;
-		color:#26d0ce;
+		color:white;
 		font-size:18px;
 				}
   	#plantlist {
